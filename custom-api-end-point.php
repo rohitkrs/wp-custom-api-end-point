@@ -3,7 +3,7 @@
 URI:  
 Description: A custom WP plugin to customize the response of default woocommerce API's and some custom API end points to Woo Commerce.&nbsp; <strong>(DO NOT DEACTIVATE OR REMOVE THIS PLUGIN)</strong>.
 Version: 1.0 
-Author: Sukhwinder Kaur, Rohit Sharma
+Author: Rohit Sharma
 Author URI: https://apptunix.com
 */ 
 
